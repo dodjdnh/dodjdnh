@@ -91,9 +91,9 @@ motto: "Talk is cheap. Show me the code & Ship the product."
 ### 🏆 活跃与成就 (Contribution & Activity)
 
 <div align="center">
-  <!-- 贡献度热力图（2x Retina 高清渲染，100% 免疫防裂） -->
+  <!-- 贡献度热力图（2x Retina 高清渲染，直链 GitHub 仓库 Blob 资源） -->
   <a href="https://github.com/dodjdnh">
-    <img src="https://raw.githubusercontent.com/dodjdnh/dodjdnh/main/assets/contribution.png" width="100%" alt="GitHub Contributions" />
+    <img src="https://github.com/dodjdnh/dodjdnh/blob/main/assets/contribution.png?raw=true" width="100%" alt="GitHub Contributions" />
   </a>
 </div>
 
