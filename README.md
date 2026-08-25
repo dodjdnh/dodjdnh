@@ -3,6 +3,13 @@
   <!-- 顶部动态波浪渐变横幅 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Alic%20👋&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=16&descColor=e0e0e0&animation=fadeIn" width="100%"/>
 
+  <!-- 圆形个人头像 -->
+  <a href="https://github.com/dodjdnh">
+    <img src="https://github.com/dodjdnh/dodjdnh/blob/main/assets/avatar.png?raw=true" width="130" height="130" alt="Alic Avatar" />
+  </a>
+
+  <br/>
+
   <!-- 动态打字机副标题 -->
   <a href="https://github.com/dodjdnh">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+%26+Cloud+Native+Apps;Exploring+AI+Agents+%26+LLM+Ecosystem;Passionate+about+Elegant+Code+%26+Product+Design;Tech+Blogger+at+heyalic.me" alt="Typing SVG" />
