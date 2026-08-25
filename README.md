@@ -1,35 +1,27 @@
 <div align="center">
 
-  <!-- 顶部动态波浪渐变横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Alic%20👋&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=16&descColor=e0e0e0&animation=fadeIn" width="100%"/>
+  <!-- 顶部渐变波浪横幅（左侧内嵌圆形头像 + 右侧问候语） -->
+  <a href="https://github.com/dodjdnh">
+    <img src="https://github.com/dodjdnh/dodjdnh/blob/main/assets/header.png?raw=true" width="100%" alt="Alic Profile Header" />
+  </a>
+
+  <!-- 动态打字机副标题 -->
+  <a href="https://github.com/dodjdnh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+%26+Cloud+Native+Apps;Exploring+AI+Agents+%26+LLM+Ecosystem;Passionate+about+Elegant+Code+%26+Product+Design;Tech+Blogger+at+heyalic.me" alt="Typing SVG" />
+  </a>
 
   <br/>
 
-  <!-- 左侧圆形头像 + 右侧打字机与徽章 -->
-  <table border="0">
-    <tr>
-      <td width="140" align="center" valign="middle">
-        <a href="https://github.com/dodjdnh">
-          <img src="https://github.com/dodjdnh/dodjdnh/blob/main/assets/avatar.png?raw=true" width="120" height="120" alt="Alic Avatar" />
-        </a>
-      </td>
-      <td align="left" valign="middle">
-        <a href="https://github.com/dodjdnh">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=false&vCenter=true&width=460&lines=Building+Scalable+Backend+%26+Cloud+Native+Apps;Exploring+AI+Agents+%26+LLM+Ecosystem;Passionate+about+Elegant+Code+%26+Product+Design;Tech+Blogger+at+heyalic.me" alt="Typing SVG" />
-        </a>
-        <br/>
-        <p>
-          <a href="https://heyalic.me" target="_blank">
-            <img src="https://img.shields.io/badge/Blog-heyalic.me-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog" />
-          </a>
-          <a href="mailto:yaojiaangyao@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-          </a>
-          <img src="https://komarev.com/ghpvc/?username=dodjdnh&color=38bdf8&style=for-the-badge&label=VIEWS" alt="Visitor Views" />
-        </p>
-      </td>
-    </tr>
-  </table>
+  <!-- 个人快捷徽章与社交链接 -->
+  <p align="center">
+    <a href="https://heyalic.me" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-heyalic.me-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog" />
+    </a>
+    <a href="mailto:yaojiaangyao@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=dodjdnh&color=38bdf8&style=for-the-badge&label=VIEWS" alt="Visitor Views" />
+  </p>
 
 </div>
 
