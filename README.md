@@ -71,18 +71,9 @@ motto: "Talk is cheap. Show me the code & Ship the product."
 ### 📊 GitHub 数据洞察 (Analytics & Stats)
 
 <div align="center">
-  <!-- 综合统计与主力语言并排展示 -->
-  <a href="https://github.com/dodjdnh">
-    <img src="https://github-readme-stats.vercel.app/api?username=dodjdnh&show_icons=true&theme=tokyonight&locale=cn&hide_border=true&bg_color=0D1117" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodjdnh&layout=compact&theme=tokyonight&locale=cn&hide_border=true&bg_color=0D1117" height="165" />
-  </a>
-</div>
-
-<div align="center" style="margin-top: 12px;">
-  <!-- 连续提交打卡卡片 -->
-  <a href="https://github.com/dodjdnh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dodjdnh&theme=tokyonight&hide_border=true&background=0D1117" />
-  </a>
+  <!-- 个人综合概览与语言分布并排展示 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dodjdnh&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dodjdnh&theme=tokyonight" width="49%" />
 </div>
 
 ---
@@ -97,14 +88,14 @@ motto: "Talk is cheap. Show me the code & Ship the product."
 
 ---
 
-### 🏆 活跃与成就 (Contribution & Trophies)
+### 🏆 活跃与成就 (Contribution & Activity)
 
 <div align="center">
-  <!-- 贪吃蛇贡献图（通过 GitHub Action 自动每天更新） -->
+  <!-- 贡献度热力图（本地内嵌 SVG，全天候 100% 稳定渲染，支持深浅色自适应） -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dodjdnh/dodjdnh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dodjdnh/dodjdnh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/dodjdnh/dodjdnh/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-light.svg">
+    <img alt="GitHub Contribution Grid" src="./assets/contribution-dark.svg" width="100%">
   </picture>
 </div>
 
