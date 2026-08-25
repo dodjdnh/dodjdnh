@@ -25,45 +25,16 @@
 
 ---
 
-### 🚀 关于我 (About Me)
+### 👨‍💻 关于我 & 技能栈 (About Me & Tech Stack)
 
-```yaml
-name: Kevin (Alic)
-role: Full-Stack Developer / AI Agent Builder
-focus:
-  - High-Concurrency Distributed Systems (Java / Spring / Go)
-  - Modern Web Development (React / Next.js / TypeScript)
-  - AI Application Engineering & Agentic Workflows
-motto: "Talk is cheap. Show me the code & Ship the product."
-```
+> *"Talk is cheap. Show me the code & ship the product."*
 
-- 🔭 **正在推进**：基于 AI Agent 的自动化工作流引擎与高并发即时通信架构
-- 🌱 **深入研究**：Go 云原生体系、Cloudflare Workers 全栈边缘计算、大模型工具链（MCP）
-- ✍️ **技术沉淀**：持续在 [heyalic.me](https://heyalic.me) 记录架构设计、实战经验与开源踩坑总结
-- 💬 **欢迎探讨**：分布式高并发架构、LLM Agent 落地、优雅的前后端交互设计
+- 🔭 **专注方向**：高并发分布式系统（Java / Go）、现代 Web 全栈（React / TypeScript）与 AI Agent 工作流
+- ✍️ **技术沉淀**：持续在 [heyalic.me](https://heyalic.me) 记录系统架构设计、工程实战与踩坑总结
+- 💬 **欢迎探讨**：分布式高并发架构、LLM Agent 落地应用、Cloudflare 全栈边缘计算
 
----
-
-### 🛠️ 核心技能栈 (Tech Stack)
-
-<div align="center">
-
-  <!-- 后端与云原生核心 -->
-  <p><strong>Backend & Architecture</strong></p>
-  <img src="https://skillicons.dev/icons?i=java,spring,go,python,mysql,redis,kafka,docker,linux,nginx" />
-
-  <br/>
-
-  <!-- 前端与现代 Web 栈 -->
-  <p><strong>Frontend & Frameworks</strong></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,vite,html,css" />
-
-  <br/>
-
-  <!-- 工具与云平台 -->
-  <p><strong>Tools, Cloud & DevOps</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,cloudflare,maven,idea,vscode,postman" />
-
+<div align="center" style="margin-top: 16px;">
+  <img src="https://skillicons.dev/icons?i=java,spring,go,python,ts,react,nextjs,vue,mysql,redis,docker,cloudflare,git,linux" />
 </div>
 
 ---
