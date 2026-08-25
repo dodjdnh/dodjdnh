@@ -42,9 +42,7 @@
 ### 📊 GitHub 数据洞察 (Analytics & Stats)
 
 <div align="center">
-  <!-- 个人综合概览与语言分布并排展示 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dodjdnh&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dodjdnh&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dodjdnh&theme=tokyonight" width="100%" />
 </div>
 
 ---
