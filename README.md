@@ -78,16 +78,6 @@ motto: "Talk is cheap. Show me the code & Ship the product."
 
 ---
 
-### 💡 精选开源与实践 (Featured Works)
-
-| 项目 / 仓库 | 核心技术栈 | 简介 |
-| :--- | :--- | :--- |
-| ⚡ **InfiniteChat** | `Java` `Spring Cloud` `Netty` `Redis` | 高可用、分布式高并发 IM 即时通信与消息推送引擎 |
-| 🤖 **AI Agent Workflow** | `TypeScript` `Workers` `MCP` `LLM` | 结合 MCP 协议的多智能体协作与自动化任务编排平台 |
-| 🌐 **Tech Blog & Notes** | `Hexo` `Cloudflare` `CI/CD` | 个人技术知识库与工程实战文章专栏 |
-
----
-
 ### 🏆 活跃与成就 (Contribution & Activity)
 
 <div align="center">
