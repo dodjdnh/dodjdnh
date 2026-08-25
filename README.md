@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 顶部动态波浪渐变横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Kevin%20👋&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=16&descColor=e0e0e0&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Hi%20there,%20I'm%20Alic%20👋&fontSize=42&fontAlignY=36&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=16&descColor=e0e0e0&animation=fadeIn" width="100%"/>
 
   <!-- 动态打字机副标题 -->
   <a href="https://github.com/dodjdnh">
@@ -16,9 +16,9 @@
       <img src="https://img.shields.io/badge/Blog-heyalic.me-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog" />
     </a>
     <a href="mailto:yaojiaangyao@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=dodjdnh&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Views" />
+    <img src="https://komarev.com/ghpvc/?username=dodjdnh&color=38bdf8&style=for-the-badge&label=VIEWS" alt="Visitor Views" />
   </p>
 
 </div>
