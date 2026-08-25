@@ -27,7 +27,7 @@
 
 ---
 
-### 👨‍💻 About Me & Tech Stack
+### 👨‍💻 About Me
 
 > *"Talk is cheap. Show me the code & ship the product."*
 
