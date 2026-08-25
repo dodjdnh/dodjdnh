@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- 顶部渐变波浪横幅（左侧内嵌圆形头像 + 右侧问候语） -->
+  <!-- 顶部动态渐变波浪横幅（左侧内嵌圆形头像 + 实时滚动波浪） -->
   <a href="https://github.com/dodjdnh">
-    <img src="https://github.com/dodjdnh/dodjdnh/blob/main/assets/header.png?raw=true" width="100%" alt="Alic Profile Header" />
+    <img src="https://github.com/dodjdnh/dodjdnh/blob/main/assets/header.svg?raw=true" width="100%" alt="Alic Profile Header" />
   </a>
 
   <!-- 动态打字机副标题 -->
