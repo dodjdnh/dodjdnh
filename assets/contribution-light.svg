@@ -1,18 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 787 163" width="100%" height="auto">
 <style>
   .bg { fill: #ffffff; rx: 8px; stroke: #d0d7de; stroke-width: 1px; }
   .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #24292f; }
   .meta { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; fill: #57606a; }
-  .day {{ transition: all 0.2s ease; }}
-  .day:hover {{ stroke: #58a6ff; stroke-width: 1.5px; }}
-  @keyframes snakeMove {
-    0% { transform: translate(0, 0); }
-    50% { transform: translate(20px, 15px); }
-    100% { transform: translate(0, 0); }
-  }
+  .day { transition: all 0.2s ease; }
+  .day:hover { stroke: #58a6ff; stroke-width: 1.5px; }
 </style>
 <rect width="787" height="163" class="bg" />
-<text x="25" y="22" class="title">⚡ Contribution Graph & Activity</text>
+<text x="25" y="22" class="title">&#x26A1; Contribution Graph &amp; Activity</text>
 <text x="762" y="22" text-anchor="end" class="meta">464 contributions in the last year</text>
 <rect x="25" y="35" width="11" height="11" rx="2.5" fill="#ebedf0" class="day"><title>2025-08-24: 0 contributions</title></rect>
 <rect x="25" y="49" width="11" height="11" rx="2.5" fill="#ebedf0" class="day"><title>2025-08-25: 0 contributions</title></rect>
@@ -381,5 +377,4 @@
 <rect x="753" y="35" width="11" height="11" rx="2.5" fill="#ebedf0" class="day"><title>2026-08-23: 0 contributions</title></rect>
 <rect x="753" y="49" width="11" height="11" rx="2.5" fill="#ebedf0" class="day"><title>2026-08-24: 0 contributions</title></rect>
 <rect x="753" y="63" width="11" height="11" rx="2.5" fill="#40c463" class="day"><title>2026-08-25: 3 contributions</title></rect>
-<circle cx="730" cy="68" r="4" fill="#0969da"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></circle>
 </svg>

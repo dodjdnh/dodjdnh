@@ -91,11 +91,12 @@ motto: "Talk is cheap. Show me the code & Ship the product."
 ### 🏆 活跃与成就 (Contribution & Activity)
 
 <div align="center">
-  <!-- 贡献度热力图（绝对链接 + GitHub 官方深浅模式自适应语法） -->
-  <a href="https://github.com/dodjdnh">
-    <img src="https://raw.githubusercontent.com/dodjdnh/dodjdnh/main/assets/contribution-dark.svg#gh-dark-mode-only" width="100%" alt="GitHub Contributions" />
-    <img src="https://raw.githubusercontent.com/dodjdnh/dodjdnh/main/assets/contribution-light.svg#gh-light-mode-only" width="100%" alt="GitHub Contributions" />
-  </a>
+  <!-- 贡献度热力图（标准 XML 编码 + 全天候稳定渲染） -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dodjdnh/dodjdnh/main/assets/contribution-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dodjdnh/dodjdnh/main/assets/contribution-light.svg">
+    <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/dodjdnh/dodjdnh/main/assets/contribution-dark.svg" width="100%">
+  </picture>
 </div>
 
 ---
