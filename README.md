@@ -29,9 +29,10 @@
 
 > *"Talk is cheap. Show me the code & ship the product."*
 
-- 🔭 **专注方向**：高并发分布式系统（Java / Go）、现代 Web 全栈（React / TypeScript）与 AI Agent 工作流
-- ✍️ **技术沉淀**：持续在 [heyalic.me](https://heyalic.me) 记录系统架构设计、工程实战与踩坑总结
-- 💬 **欢迎探讨**：分布式高并发架构、LLM Agent 落地应用、Cloudflare 全栈边缘计算
+- 🚀 **正在构建**：**SADE (Agent-Native Code Editor)** —— 专为 Coding Agent 设计的代码控制层与结构化审查编辑器
+- 🌟 **开源贡献**：Active Contributor to **Apache** & Open-Source Ecosystem
+- 🔭 **专注方向**：高并发分布式系统（Java / Go）、现代 Web 全栈（React / TypeScript）与 Agentic Workflow
+- ✍️ **技术沉淀**：持续在 [heyalic.me](https://heyalic.me) 记录系统架构设计、工程实战与前沿开源探索
 
 <div align="center" style="margin-top: 16px;">
   <img src="https://skillicons.dev/icons?i=java,spring,go,python,ts,react,nextjs,vue,mysql,redis,docker,cloudflare,git,linux" />
