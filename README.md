@@ -19,14 +19,7 @@
 
 ---
 
-### 👨‍💻 About Me
-
-> *"Talk is cheap. Show me the code & ship the product."*
-
-- 🚀 **Building**: **SADE (Agent-Native Code Editor)** — A structural control plane & review editor designed for AI coding agents
-- 🌟 **Open Source**: Active Contributor to **Apache** & Open-Source AI Ecosystem
-- 🔭 **Focus Areas**: High-concurrency distributed systems (Java / Go), modern full-stack web (React / TypeScript), and Agentic Workflows
-- ✍️ **Tech Blog**: Sharing system architecture design, engineering insights, and open-source practices at [heyalic.me](https://heyalic.me)
+I ship things people actually use. Full-stack engineer with a bias toward AI-powered developer tools, high-concurrency systems, and agentic workflows. Currently building [SADE](https://github.com/dodjdnh), contributing to open-source ecosystems, and writing at [heyalic.me](https://heyalic.me).
 
 <div align="center" style="margin-top: 16px;">
   <img src="https://skillicons.dev/icons?i=java,spring,go,python,ts,react,nextjs,vue,mysql,redis,docker,cloudflare,git,linux" />
