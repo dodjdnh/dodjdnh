@@ -19,7 +19,7 @@
 
 ---
 
-I ship things people actually use. Full-stack engineer with a bias toward AI-powered developer tools, high-concurrency systems, and agentic workflows. Currently building [SADE](https://github.com/dodjdnh), contributing to open-source ecosystems, and writing at [heyalic.me](https://heyalic.me).
+I ship things people actually use. Full-stack engineer focused on AI devtools, high-concurrency systems, and agentic workflows. Currently an [OSPP](https://summer-ospp.ac.cn/) contributor bridging observability across [Dubbo Admin](https://github.com/apache/dubbo-admin) & [Dubbo-go](https://github.com/apache/dubbo-go), building [SADE](https://github.com/dodjdnh), and writing at [heyalic.me](https://heyalic.me).
 
 <div align="center" style="margin-top: 16px;">
   <img src="https://skillicons.dev/icons?i=java,spring,go,python,ts,react,nextjs,vue,mysql,redis,docker,cloudflare,git,linux" />
