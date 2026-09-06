@@ -6,6 +6,7 @@
 <p>
 <samp>
 / <a href="https://heyalic.me">heyalic.me</a>
+/ <a href="https://x.com/YaoAng25663">x</a>
 / <a href="https://github.com/dodjdnh">github</a>
 / <a href="mailto:yaojiaangyao@gmail.com">email</a> /
 </samp>
