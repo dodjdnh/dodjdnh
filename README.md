@@ -25,3 +25,13 @@ I ship things people actually use. Full-stack engineer focused on AI devtools, h
 <div align="center" style="margin-top: 16px;">
   <img src="https://skillicons.dev/icons?i=java,spring,go,python,ts,react,nextjs,vue,mysql,redis,docker,cloudflare,git,linux" />
 </div>
+
+---
+
+<div align="center">
+
+## Python Eating My Python3 Contributions 🐍
+
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/dodjdnh/dodjdnh/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
