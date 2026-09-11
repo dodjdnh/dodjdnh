@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/dodjdnh/dodjdnh/raw/main/assets/neco-arc.gif" alt="neco-arc" width="230px" />
+  <img src="https://github.com/dodjdnh/dodjdnh/raw/main/assets/reading.gif" alt="reading" width="180px" />
 </p>
 
 </div>
