@@ -20,7 +20,7 @@
 
 ---
 
-I ship things people actually use. Full-stack engineer focused on AI devtools, high-concurrency systems, and agentic workflows. Currently an [OSPP](https://summer-ospp.ac.cn/) contributor bridging observability across [Dubbo Admin](https://github.com/apache/dubbo-admin) & [Dubbo-go](https://github.com/apache/dubbo-go), building [SADE](https://github.com/dodjdnh), and writing at [heyalic.me](https://heyalic.me).
+Passionate about anime, taking walks, and actively enjoying all things creative and positive. Currently contributing to cloud-native, middleware, and distributed systems—such as [Dubbo Admin](https://github.com/apache/dubbo-admin) and [Dubbo-go](https://github.com/apache/dubbo-go)—while looking forward to expanding my contributions to AI infra.
 
 ---
 
