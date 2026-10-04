@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Alic, `dodjdnh`
-<sup><i>Full-stack · AI systems · DevTools · Open-Source Enthusiast</i></sup>
+<sup><i>Cloud-Native · Distributed Systems · AI Infra</i></sup>
 
 <p>
 <samp>
