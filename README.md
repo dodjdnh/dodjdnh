@@ -20,7 +20,7 @@
 
 ---
 
-Passionate about anime, taking walks, and actively enjoying all things creative and positive. Currently contributing to cloud-native, middleware, and distributed systems—such as [Dubbo Admin](https://github.com/apache/dubbo-admin) and [Dubbo-go](https://github.com/apache/dubbo-go)—while looking forward to expanding my contributions to AI infra.
+Passionate about art, taking walks, and actively enjoying all things creative and positive. Currently contributing to cloud-native, middleware, and distributed systems—such as [Dubbo Admin](https://github.com/apache/dubbo-admin) and [Dubbo-go](https://github.com/apache/dubbo-go)—while looking forward to expanding my contributions to AI infra.
 
 ---
 
